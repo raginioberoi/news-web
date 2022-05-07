@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPY2jzpnSX8w3167FSBr9Db5ErYRAxLWu_iA&usqp=CAU');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+  }
+  h1{
+    font-family:Georgia;
+  }
+  h1{
+    color:indianred;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  h1:hover{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+  }
+  p{
+    color:aquamarine;
+  }
